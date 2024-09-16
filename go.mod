@@ -1,4 +1,4 @@
-module github.com/bincooo/you.com
+module github.com/KA4I/you.com
 
 go 1.21.6
 
